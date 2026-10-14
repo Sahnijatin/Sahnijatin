@@ -1,63 +1,38 @@
-<div align="center">
-
-# Jatin Sahni
-
-I build AI systems: agents, retrieval, voice and on-device assistants.<br/>
-Mostly TypeScript and Python, sometimes C on a microcontroller.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Jatin Sahni. I build AI systems that see, listen and act." src="assets/banner-light.svg" width="100%">
+</picture>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahnijatin/)
-[![X](https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=white)](https://x.com/sahnijatin_)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:sahnijatinn@gmail.com)
+I work where models meet the real world: agents that use tools, retrieval over messy data, voice, and assistants that run on small hardware. Most of what I build starts as a problem I hit myself.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/sahnijatin/) &nbsp;·&nbsp; [X](https://x.com/sahnijatin_) &nbsp;·&nbsp; [Email](mailto:sahnijatinn@gmail.com)
 
 <br/>
 
 ## Building
 
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| **LiveMap** | Live x-ray of what AI coding agents build: files, functions, schema, routes, and why. CLI plus a local browser UI. | TypeScript |
-| **Collar Eye** | Wearable collar camera and voice helper that sees your hands and point of view. Works with any LLM through a frames middleware and MCP. | Python |
-| [**esp-box-assistant**](https://github.com/Sahnijatin/esp-box-assistant) | Tap-to-talk AI assistant for the ESP32-S3-BOX-3, with remote config and OTA updates. | C · ESP-IDF |
-| **OutsiderMap** | Recommendation engine that learns your preferences as you go. | TypeScript |
-| **Eynis** | AI CRM that unifies business data scattered across systems and puts an assistant on top. | TypeScript |
-
-<sub>Most of these are private while in progress. Ask if you want a look.</sub>
-
-<br/>
-
-## Interests
-
-- Agent tooling and MCP servers
-- Retrieval: RAG pipelines, vector search, evaluation
-- Local and on-prem LLMs, fine-tuning with LoRA / QLoRA
-- Voice agents and hardware assistants
-
-<br/>
-
-## Stack
-
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,py,c,nodejs,nextjs,react,fastapi,postgres,supabase,docker,aws,gcp,vercel,linux&perline=14" alt="Stack" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-livemap-dark.svg"><img alt="LiveMap: live x-ray of what AI coding agents build" src="assets/card-livemap-light.svg" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-collar-eye-dark.svg"><img alt="Collar Eye: wearable camera and voice helper" src="assets/card-collar-eye-light.svg" width="49%"></picture>
+</p>
+<p>
+<a href="https://github.com/Sahnijatin/esp-box-assistant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-esp-box-assistant-dark.svg"><img alt="esp-box-assistant: tap-to-talk AI assistant for ESP32-S3-BOX-3" src="assets/card-esp-box-assistant-light.svg" width="49%"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-outsidermap-dark.svg"><img alt="OutsiderMap: preference-learning recommendation engine" src="assets/card-outsidermap-light.svg" width="49%"></picture>
 </p>
 
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-191919?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-191919?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-191919?style=flat-square&logo=huggingface&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-191919?style=flat-square&logo=qdrant&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-191919?style=flat-square&logo=elevenlabs&logoColor=white)
-![Espressif](https://img.shields.io/badge/ESP32-191919?style=flat-square&logo=espressif&logoColor=white)
+<sub>Projects marked <i>in development</i> are private until they are ready to use. Happy to walk through any of them.</sub>
 
 <br/>
 
-<div align="center">
+## Focus
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=sahnijatin&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e" alt="GitHub stats" />
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahnijatin&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e" alt="Top languages" />
+- **Agent tooling.** MCP servers, tool-use, and making what agents do visible and debuggable.
+- **Retrieval.** RAG pipelines and vector search over real-world documents.
+- **Local models.** On-prem LLM deployment and LoRA / QLoRA fine-tuning.
+- **Voice and edge.** Speech in, speech out, on hardware that fits in a pocket.
 
-</div>
+<br/>
+
+<p align="right"><sub>Every graphic on this page is generated from code in this repo.</sub></p>
