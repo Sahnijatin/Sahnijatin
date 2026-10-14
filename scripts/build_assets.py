@@ -153,7 +153,7 @@ PROJECTS = [
     dict(slug="livemap", title="LiveMap", status="In development", icon=ICONS["map"],
          desc="Live x-ray of what AI coding agents build: files, functions, schema, routes, and why.",
          tags=["TypeScript", "CLI", "Claude Code", "Codex"]),
-    dict(slug="collar-eye", title="Collar Eye", status="In development", icon=ICONS["eye"],
+    dict(slug="collar-eye", title="Collar Eye", status="Open source", icon=ICONS["eye"],
          desc="Wearable camera and voice helper that sees your hands and point of view. Any LLM, via MCP.",
          tags=["Python", "Vision", "Voice", "MCP"]),
     dict(slug="esp-box-assistant", title="esp-box-assistant", status="Open source", icon=ICONS["chip"],

@@ -15,7 +15,7 @@ I work where models meet the real world: agents that use tools, retrieval over m
 
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-livemap-dark.svg"><img alt="LiveMap: live x-ray of what AI coding agents build" src="assets/card-livemap-light.svg" width="49%"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-collar-eye-dark.svg"><img alt="Collar Eye: wearable camera and voice helper" src="assets/card-collar-eye-light.svg" width="49%"></picture>
+<a href="https://github.com/Sahnijatin/collar-eye"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-collar-eye-dark.svg"><img alt="Collar Eye: wearable camera and voice helper" src="assets/card-collar-eye-light.svg" width="49%"></picture></a>
 </p>
 <p>
 <a href="https://github.com/Sahnijatin/esp-box-assistant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-esp-box-assistant-dark.svg"><img alt="esp-box-assistant: tap-to-talk AI assistant for ESP32-S3-BOX-3" src="assets/card-esp-box-assistant-light.svg" width="49%"></picture></a>
