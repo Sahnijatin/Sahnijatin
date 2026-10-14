@@ -2,10 +2,8 @@
 
 # Jatin Sahni
 
-**AI Technical Lead · Enterprise GenAI · ServiceNow**
-
-I design and ship production AI systems for enterprises: RAG pipelines, agent orchestration,<br/>
-on-prem LLM deployments, and AI products on the ServiceNow platform.
+I build AI systems: agents, retrieval, voice and on-device assistants.<br/>
+Mostly TypeScript and Python, sometimes C on a microcontroller.
 
 <br/>
 
@@ -17,63 +15,42 @@ on-prem LLM deployments, and AI products on the ServiceNow platform.
 
 <br/>
 
-## About
+## Building
 
-I lead the AI streams in R&D at **inMorphis**, a ServiceNow consulting partner, working directly with the CTO.
-I started here as a developer in 2023 and today own the AI team, its use cases and our ServiceNow Store products,
-from architecture and delivery through to pre-sales and enablement.
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **LiveMap** | Live x-ray of what AI coding agents build: files, functions, schema, routes, and why. CLI plus a local browser UI. | TypeScript |
+| **Collar Eye** | Wearable collar camera and voice helper that sees your hands and point of view. Works with any LLM through a frames middleware and MCP. | Python |
+| [**esp-box-assistant**](https://github.com/Sahnijatin/esp-box-assistant) | Tap-to-talk AI assistant for the ESP32-S3-BOX-3, with remote config and OTA updates. | C · ESP-IDF |
+| **OutsiderMap** | Recommendation engine that learns your preferences as you go. | TypeScript |
+| **Eynis** | AI CRM that unifies business data scattered across systems and puts an assistant on top. | TypeScript |
 
-My strength is system design. I think in architectures, data flows and failure modes, and I build fast with AI as my pair.
-
-<br/>
-
-## Highlights
-
-|  |  |
-| :-- | :-- |
-| **20+** | AI products published on the ServiceNow Store |
-| **150+** | Plug-and-play GenAI use cases built for pre-sales |
-| **50+** | Internal trainings delivered to ~500 colleagues |
-| **2nd globally** | ServiceNow hackathon, among multiple hackathon wins |
-| **Global** | Clients across banking, aviation, telecom and GCCs in India, SEA, Singapore and the US |
+<sub>Most of these are private while in progress. Ask if you want a look.</sub>
 
 <br/>
 
-## What I work on
+## Interests
 
-- **Enterprise GenAI.** RAG pipelines, vector database integrations, multi-agent orchestration, evaluation.
-- **Private and on-prem AI.** Local LLM deployment on client GPU infrastructure, fine-tuning with LoRA / QLoRA.
-- **ServiceNow AI.** Now Assist, AI Agents, AI Control Tower, Document Intelligence, and custom scoped apps.
-- **Voice AI.** Agents wired into CRMs for inbound and outbound workflows.
-- **Pre-sales.** Discovery, POCs, RFP / RFI responses and go-to-market for AI products.
-
-<br/>
-
-## Currently building
-
-**LiveMap** &nbsp;·&nbsp; Live visibility into what AI coding agents are building. Files, functions, schema, routes, and the reasoning behind them, as the agent works. CLI plus a local browser UI. *Coming soon.*
+- Agent tooling and MCP servers
+- Retrieval: RAG pipelines, vector search, evaluation
+- Local and on-prem LLMs, fine-tuning with LoRA / QLoRA
+- Voice agents and hardware assistants
 
 <br/>
 
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,nodejs,nextjs,react,fastapi,postgres,supabase,docker,aws,gcp,vercel,linux,figma&perline=14" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,py,c,nodejs,nextjs,react,fastapi,postgres,supabase,docker,aws,gcp,vercel,linux&perline=14" alt="Stack" />
 </p>
 
-![Anthropic](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-191919?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-191919?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-191919?style=flat-square&logo=huggingface&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-191919?style=flat-square&logo=servicenow&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-191919?style=flat-square&logo=qdrant&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-191919?style=flat-square&logo=elevenlabs&logoColor=white)
-
-<br/>
-
-## Certifications
-
-**Anthropic** &nbsp; Claude Certified Architect<br/>
-**ServiceNow** &nbsp; CSA · CAD · CIS Data Foundations · Now Assist Executive · AI Agent Delivery · AI Control Tower · Virtual Agent
+![Espressif](https://img.shields.io/badge/ESP32-191919?style=flat-square&logo=espressif&logoColor=white)
 
 <br/>
 
@@ -82,9 +59,5 @@ My strength is system design. I think in architectures, data flows and failure m
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=sahnijatin&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e" alt="GitHub stats" />
 &nbsp;
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahnijatin&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e" alt="Top languages" />
-
-<br/><br/>
-
-<sub>New Delhi, India &nbsp;·&nbsp; Open to conversations on enterprise AI</sub>
 
 </div>
