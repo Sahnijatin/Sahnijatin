@@ -1,26 +1,90 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://sahnijatin.io)
-<h1 align="center">Hi 👋, I'm Jatin Sahni</h1>
-<h3 align="center"></h3>
-<img align="right" alt="Coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahnijatin&label=Profile%20views&color=0e75b6&style=flat" alt="sahnijatin" /> </p>
+# Jatin Sahni
 
-<p align="left"> <a href="https://twitter.com/sahnijatin_" target="blank"><img src="https://img.shields.io/twitter/follow/sahnijatin_?logo=twitter&style=for-the-badge" alt="sahnijatin_" /></a> </p>
+**AI Technical Lead · Enterprise GenAI · ServiceNow**
 
-- 📫 How to reach me **Sahnijatinn@gmail.com**
+I design and ship production AI systems for enterprises: RAG pipelines, agent orchestration,<br/>
+on-prem LLM deployments, and AI products on the ServiceNow platform.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sahnijatin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahnijatin_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahnijatin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahnijatin/" height="30" width="40" /></a>
-<a href="https://instagram.com/sahniijatinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahniijatinn" height="30" width="40" /></a>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahnijatin/)
+[![X](https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=white)](https://x.com/sahnijatin_)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:sahnijatinn@gmail.com)
+
+</div>
+
+<br/>
+
+## About
+
+I lead the AI streams in R&D at **inMorphis**, a ServiceNow consulting partner, working directly with the CTO.
+I started here as a developer in 2023 and today own the AI team, its use cases and our ServiceNow Store products,
+from architecture and delivery through to pre-sales and enablement.
+
+My strength is system design. I think in architectures, data flows and failure modes, and I build fast with AI as my pair.
+
+<br/>
+
+## Highlights
+
+|  |  |
+| :-- | :-- |
+| **20+** | AI products published on the ServiceNow Store |
+| **150+** | Plug-and-play GenAI use cases built for pre-sales |
+| **50+** | Internal trainings delivered to ~500 colleagues |
+| **2nd globally** | ServiceNow hackathon, among multiple hackathon wins |
+| **Global** | Clients across banking, aviation, telecom and GCCs in India, SEA, Singapore and the US |
+
+<br/>
+
+## What I work on
+
+- **Enterprise GenAI.** RAG pipelines, vector database integrations, multi-agent orchestration, evaluation.
+- **Private and on-prem AI.** Local LLM deployment on client GPU infrastructure, fine-tuning with LoRA / QLoRA.
+- **ServiceNow AI.** Now Assist, AI Agents, AI Control Tower, Document Intelligence, and custom scoped apps.
+- **Voice AI.** Agents wired into CRMs for inbound and outbound workflows.
+- **Pre-sales.** Discovery, POCs, RFP / RFI responses and go-to-market for AI products.
+
+<br/>
+
+## Currently building
+
+**LiveMap** &nbsp;·&nbsp; Live visibility into what AI coding agents are building. Files, functions, schema, routes, and the reasoning behind them, as the agent works. CLI plus a local browser UI. *Coming soon.*
+
+<br/>
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,nodejs,nextjs,react,fastapi,postgres,supabase,docker,aws,gcp,vercel,linux,figma&perline=14" alt="Stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![Anthropic](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-191919?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-191919?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-191919?style=flat-square&logo=huggingface&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-191919?style=flat-square&logo=servicenow&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-191919?style=flat-square&logo=elevenlabs&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahnijatin&show_icons=true&locale=en&layout=compact" alt="sahnijatin" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahnijatin&show_icons=true&locale=en" alt="sahnijatin" /></p>
+## Certifications
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahnijatin&" alt="sahnijatin" /></p>
+**Anthropic** &nbsp; Claude Certified Architect<br/>
+**ServiceNow** &nbsp; CSA · CAD · CIS Data Foundations · Now Assist Executive · AI Agent Delivery · AI Control Tower · Virtual Agent
+
+<br/>
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=sahnijatin&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e" alt="GitHub stats" />
+&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahnijatin&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e" alt="Top languages" />
+
+<br/><br/>
+
+<sub>New Delhi, India &nbsp;·&nbsp; Open to conversations on enterprise AI</sub>
+
+</div>
