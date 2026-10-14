@@ -35,4 +35,9 @@ I work where models meet the real world: agents that use tools, retrieval over m
 
 <br/>
 
-<p align="right"><sub>Every graphic on this page is generated from code in this repo.</sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img alt="Contribution activity over the last 12 months" src="assets/activity-light.svg" width="100%">
+</picture>
+
+<p align="right"><sub>Every graphic on this page is generated from code in this repo. Activity refreshes daily via GitHub Actions.</sub></p>
