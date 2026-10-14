@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="250" viewBox="0 0 600 250" role="img" aria-label="Collar Eye: Wearable camera and voice helper that sees your hands and point of view. Any LLM, via MCP.">
+<style>.fs{font-family:'Inter','SF Pro Display',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.fm{font-family:'JetBrains Mono','SF Mono',ui-monospace,Menlo,Consolas,monospace}
+.pulse { animation: p 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+.sweep { animation: sw 6s ease-in-out infinite; }
+@keyframes p { 0%,100% { opacity:.5; transform:scale(1) } 50% { opacity:0; transform:scale(2.6) } }
+@keyframes sw { 0% { transform: translateX(-620px) } 60%,100% { transform: translateX(620px) } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+</style>
+<defs>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C5CFF"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".9"/><stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="1" y="1" width="598" height="248" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#c)"><rect width="600" height="250" fill="#111115"/>
+<rect x="0" y="0" width="600" height="2" fill="#24242B"/><rect class="sweep" x="0" y="0" width="600" height="2" fill="url(#sh)"/>
+<g transform="translate(32,34)"><rect width="40" height="40" rx="10" fill="#0A0A0C" stroke="#24242B"/><g transform="translate(8,8)" fill="none" stroke="url(#acc)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></g></g>
+<g transform="translate(419.6,42)"><rect width="148.4" height="28" rx="14" fill="#0A0A0C" stroke="#24242B"/><circle class="pulse" cx="15" cy="14" r="4" fill="#F59E0B"/><circle cx="15" cy="14" r="4" fill="#F59E0B"/><text x="27" y="19" class="fm" font-size="14" fill="#A1A1AA">In development</text></g>
+<text x="32" y="118" class="fs" font-size="30" font-weight="700" letter-spacing="-.8" fill="#F4F4F5">Collar Eye</text>
+<text x="32" y="152" class="fs" font-size="18.5" fill="#A1A1AA">Wearable camera and voice helper that sees your</text>
+<text x="32" y="178" class="fs" font-size="18.5" fill="#A1A1AA">hands and point of view. Any LLM, via MCP.</text>
+<rect x="32" y="200" width="68.4" height="26" rx="7" fill="#0A0A0C" stroke="#24242B"/><text x="41" y="218" class="fm" font-size="14" fill="#A1A1AA">Python</text>
+<rect x="108.4" y="200" width="68.4" height="26" rx="7" fill="#0A0A0C" stroke="#24242B"/><text x="117.4" y="218" class="fm" font-size="14" fill="#A1A1AA">Vision</text>
+<rect x="184.8" y="200" width="60" height="26" rx="7" fill="#0A0A0C" stroke="#24242B"/><text x="193.8" y="218" class="fm" font-size="14" fill="#A1A1AA">Voice</text>
+<rect x="252.8" y="200" width="43.2" height="26" rx="7" fill="#0A0A0C" stroke="#24242B"/><text x="261.8" y="218" class="fm" font-size="14" fill="#A1A1AA">MCP</text>
+</g><rect x=".5" y=".5" width="599" height="249" rx="16" fill="none" stroke="#24242B"/></svg>
